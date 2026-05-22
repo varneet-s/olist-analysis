@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A stakeholder map identifies all parties impacted by or influencing the analysis, classifies them by power and interest, and determines the appropriate engagement strategy for each group. This is a standard Business Analyst artifact used to ensure the right people receive the right information at the right time.
+A stakeholder map identifies all parties impacted by or influencing the analysis, classifies them by power and interest, and determines the appropriate engagement strategy for each group. This is a standard Business Analyst artefact used to ensure the right people receive the right information at the right time.
 
 ---
 
@@ -10,7 +10,7 @@ A stakeholder map identifies all parties impacted by or influencing the analysis
 
 Each stakeholder is classified across four dimensions:
 
-1. **Type**: Internal (within Olist) or External (outside the organization)
+1. **Type**: Internal (within Olist) or External (outside the organisation)
 2. **Category**: Primary (directly affected) or Secondary (indirectly affected)
 3. **Power**: Ability to influence decisions or allocate resources (High / Medium / Low)
 4. **Interest**: Level of concern about the analysis outcomes (High / Medium / Low)
@@ -34,7 +34,7 @@ Each stakeholder is classified across four dimensions:
 
 ![Stakeholder Power/Interest Grid](./images/stakeholder_map.png)
 
-The grid above maps each stakeholder into one of four quadrants based on their power (vertical axis) and interest (horizontal axis). This visualization determines the communication approach for each group.
+The grid above maps each stakeholder into one of four quadrants based on their power (vertical axis) and interest (horizontal axis). This visualisation determines the communication approach for each group.
 
 ---
 
@@ -45,22 +45,22 @@ The grid above maps each stakeholder into one of four quadrants based on their p
 
 The CEO owns the final decision on geographic expansion strategy, seller acquisition investments, and logistics partnerships. This analysis directly informs capital allocation priorities for 2019 and beyond. The CEO needs:
 - Executive summary with clear business impact quantification
-- Prioritized recommendations tied to revenue growth potential
+- Prioritised recommendations tied to revenue growth potential
 - Risk assessment if no action is taken
 
-**Engagement Approach**: Present findings in person, provide detailed documentation for review, and involve in final recommendation prioritization.
+**Engagement Approach**: Present findings in person, provide detailed documentation for review, and be involved in final recommendation prioritisation.
 
 ---
 
 ### 2. Operations & Logistics Team
 **Grid Position**: Manage Closely (High Power, High Interest)
 
-This team is responsible for carrier relationships, delivery performance monitoring, and seller onboarding logistics. They have direct operational authority to negotiate regional carrier contracts and optimize fulfillment processes. They need:
+This team is responsible for carrier relationships, delivery performance monitoring, and seller onboarding logistics. They have direct operational authority to negotiate regional carrier contracts and optimise fulfilment processes. They need:
 - Granular data on delivery failures by route and carrier
 - Freight cost breakdowns by state and distance
 - Actionable metrics (e.g., "reduce transit time in RR/RO routes by X days")
 
-**Engagement Approach**: Deep-dive working sessions to validate findings, collaborate on feasibility of logistics recommendations, and co-develop implementation plans.
+**Engagement Approach**: Deep-dive working sessions to validate findings, collaborate on the feasibility of logistics recommendations, and co-develop implementation plans.
 
 ---
 
@@ -72,7 +72,7 @@ Sales and Marketing are responsible for seller acquisition campaigns and custome
 - Seller concentration insights to guide recruitment priorities
 - Customer satisfaction trends to refine messaging
 
-**Engagement Approach**: Regular updates via reports and presentations. Solicit input on go-to-market feasibility but do not require sign-off on technical recommendations.
+**Engagement Approach**: Regular updates via reports and presentations. Solicit input on go-to-market feasibility, but do not require sign-off on technical recommendations.
 
 ---
 
@@ -91,19 +91,19 @@ Investors hold significant influence over funding decisions but are less concern
 ### 5. Sellers (Platform Sellers)
 **Grid Position**: Keep Informed (Low Power, High Interest)
 
-Sellers are directly affected by any changes to logistics partnerships, freight subsidies, or platform policies, but they have limited individual power to influence Olist's strategic decisions. However, their collective behavior (staying vs. leaving the platform) matters. They need:
+Sellers are directly affected by any changes to logistics partnerships, freight subsidies, or platform policies, but they have limited individual power to influence Olist's strategic decisions. However, their collective behaviour (staying vs. leaving the platform) matters. They need:
 - Transparency on how logistics improvements will reduce their costs
 - Clarity on seller acquisition priorities in new regions
-- Assurance that top-performing sellers remain prioritized
+- Assurance that top-performing sellers remain prioritised
 
-**Engagement Approach**: Communicate major changes through platform announcements, seller newsletters, and support channels. Gather feedback but do not involve in strategic planning.
+**Engagement Approach**: Communicate major changes through platform announcements, seller newsletters, and support channels. Gather feedback, but do not get involved in strategic planning.
 
 ---
 
 ### 6. Customers (End Buyers)
 **Grid Position**: Monitor (Low Power, Low Interest)
 
-Customers care about receiving their orders on time and at reasonable cost, but they have no direct influence on Olist's internal strategy and limited awareness of the analysis itself. Their feedback is captured indirectly through review scores and repeat purchase behavior. They need:
+Customers care about receiving their orders on time and at a reasonable cost, but they have no direct influence on Olist's internal strategy and limited awareness of the analysis itself. Their feedback is captured indirectly through review scores and repeat purchase behaviour. They need:
 - Better delivery performance (outcome of this analysis, not the analysis itself)
 - Lower freight costs in remote regions
 
@@ -113,6 +113,15 @@ Customers care about receiving their orders on time and at reasonable cost, but 
 
 ## Key Insight
 
-The stakeholder map reveals that **Operations & Logistics and the CEO must be aligned** for any recommendation to move forward. Both groups have high power and high interest, but their priorities differ—the CEO focuses on revenue growth and market expansion, while Ops focuses on operational feasibility and cost control. Recommendations must satisfy both strategic and operational criteria to gain buy-in.
+The stakeholder map reveals that **Operations & Logistics and the CEO must be aligned** for any recommendation to move forward. Both groups have high power and high interest, but their priorities differ
+ 
+- The CEO focuses on revenue growth and market expansion.
+- While Ops focuses on operational feasibility and cost control. 
+
+Recommendations must satisfy both strategic and operational criteria to gain buy-in.
 
 Additionally, the **Sales & Marketing team should be involved early** in any seller acquisition strategy for underserved regions, as they will execute the campaigns and need to validate targeting assumptions.
+
+---
+
+**Next Step**: Before I proceed with [Analysis](5-analysis), I decided to document [Current-State](./4-current-state) to identify where delays occur.
