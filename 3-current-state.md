@@ -74,7 +74,9 @@ The diagram above uses Business Process Model and Notation (BPMN) to show the en
 
 3. **Deliver**: Final-mile delivery to the customer.
 
-**Pain Point**: The "In Transit" step is where geographic distance becomes critical. Orders to northern and remote states experience significantly longer transit times due to sparse logistics infrastructure and fewer available routes.
+**Pain Point**: The "In Transit" step is where geographic distance becomes critical. Orders
+to regions with sparse logistics infrastructure and fewer available routes experience
+significantly longer transit times.
 
 ---
 
@@ -114,4 +116,5 @@ If estimated dates are overly optimistic for remote regions, customers will perc
 
 ---
 
-**Next Step**: Now that I have formed hypotheses, understood the stakeholder-map and mapped the current-state, I will move forward with [Data-Analysis](./5-analysis)
+**Next Step**: Now that I have formed business questions, understood the stakeholder map,
+and mapped the current state, I will move forward with [Data Analysis →](./4-analysis.md)
