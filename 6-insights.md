@@ -85,5 +85,24 @@ any meaningful intervention has to start.
 
 ---
 
-**Next Step**: Prioritised actions based on these findings are in
-[Business Recommendations →](./7-business-recommendations.md)
+## Insight 6 — The Platform Has Already Hit a Growth Ceiling in Its Existing Markets
+
+Monthly order volume grew from 265 orders (Nov 2016) to **7,289** (Nov 2017) — nearly
+28x growth in twelve months. Then it stopped. Orders plateaued at **6,000–7,000/month**
+through August 2018 with no recovery trend.
+
+A plateau of this shape — sharp growth followed by a flat ceiling — indicates that
+the addressable market in Olist's current geographic footprint is largely saturated.
+Customers who were going to adopt the platform in SP, RJ, and MG have already done
+so. Further growth in those states will require either taking share from competitors
+or expanding categories — both harder and slower than entering underserved markets
+where Olist has no meaningful competitor yet.
+
+**What this means:** The next phase of growth cannot come from the southeast. It has
+to come from states where demand exists but logistics economics currently make the
+platform unviable. Solving freight and delivery in the north is not just a customer
+satisfaction initiative — it is the only available growth lever.
+
+---
+
+**Next Step**: Prioritised actions based on these findings are in [Business Recommendations →](7-business-recommendations.md)
