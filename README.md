@@ -81,7 +81,7 @@ Defines Olist's operating model and the structural geographic concentration prob
 
 ### 2. [Stakeholder Map](2-stakeholder-map.md)
 
-Identifies all parties impacted by or influencing the analysis. Classifies them using a **Power/Interest Grid (RACI framework)** and determines engagement strategies for each group (CEO, Operations, Sales, Investors, Sellers, Customers).
+Identifies all parties impacted by or influencing the analysis. Classifies them using a **Power/Interest Matrix** and determines engagement strategies for each group (CEO, Operations, Sales, Investors, Sellers, Customers).
 
 ### 3. [Current State (AS-IS)](3-current-state.md)
 
@@ -183,7 +183,7 @@ Technical reference documenting all 8 Excel calculated columns (`delivery_delay_
 
 - **Problem structuring:** Used the 6P framework to identify plausible problems before opening data
 - **Business question formation:** Documented testable predictions to guide analysis and avoid retrofitting conclusions
-- **Stakeholder management:** Mapped 6 stakeholder groups using Power/Interest Grid (RACI)
+- **Stakeholder management:** Mapped 6 stakeholder groups using Power/Interest Matrix
 - **Process mapping:** Created BPMN swimlane diagram showing order fulfilment workflow
 - **Root cause diagnosis:** Applied Nadler-Tushman Congruence Model across Work–People–Structure–Culture
 - **Gap quantification:** Calculated AS-IS vs. TO-BE targets with specific improvement ranges
@@ -217,7 +217,7 @@ Technical reference documenting all 8 Excel calculated columns (`delivery_delay_
 | Framework | Where Used |
 |---|---|
 | **STAR** (Situation–Task–Action–Result) | Analysis documentation |
-| **RACI** (Responsible–Accountable–Consulted–Informed) | Stakeholder classification |
+| **Power/Interest Matrix** | Stakeholder classification & engagement strategy |
 | **Nadler-Tushman Congruence Model** | Root cause diagnosis (Work, People, Structure, Culture) |
 | **AS-IS vs. TO-BE** | Gap quantification |
 | **Pareto Principle** (80/20 Rule) | Seller concentration analysis |
@@ -228,7 +228,7 @@ Technical reference documenting all 8 Excel calculated columns (`delivery_delay_
 
 - **Excel** (Power Query, XLOOKUP, Pivot Tables, Calculated Columns) — Data consolidation, transformation, and aggregation
 - **Tableau Desktop** (LOD Calculations, Table Calculations, Geographic Mapping) — Dashboard visualisation and Pareto analysis
-- **draw.io** (BPMN, Power/Interest Grid, Database Schema) — Process mapping and stakeholder analysis
+- **draw.io** (BPMN, Power/Interest Matrix, Database Schema) — Process mapping and stakeholder analysis
 
 ---
 
@@ -263,7 +263,7 @@ olist-analysis/
 │   ├── database_schema.png                 (Physical ERD created by analyst)
 │   ├── erd_olist_kaggle.png                (Original ERD from Kaggle dataset)
 │   ├── bpmn_process_map.png               (AS-IS order fulfilment process)
-│   ├── stakeholder_map.png                 (Power/Interest Grid)
+│   ├── stakeholder_map.png                 (Power/Interest Matrix)
 │   ├── customers_by_state.png              (Geographic map)
 │   ├── sellers_by_state.png                (Geographic map)
 │   ├── h1_delay_severity_vs_score.png
